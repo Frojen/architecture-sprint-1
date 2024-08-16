@@ -1,0 +1,6 @@
+@import url('page__content.css');
+@import url('page__section.css');
+
+.page {
+  background: #000;
+}
